@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/extrin/netology-ajs-lection_2-task_2/issues"
   },
-  "homepage": "https://github.com/extrin/netology-ajs-lection_2-task_2#readme"
+  "homepage": "https://github.com/extrin/netology-ajs-lection_2-task_2#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3"
+  }
 }
